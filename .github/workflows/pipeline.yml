@@ -22,5 +22,5 @@ jobs:
       - name: Run Container
         run: docker run devops-demo
 
-   - name: Deploy Application
+      - name: Deploy Application
         run: docker run devops-demo
